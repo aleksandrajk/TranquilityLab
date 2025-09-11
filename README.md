@@ -19,4 +19,4 @@ Audio-reactive visuals powered by Python + TouchDesigner.
 - [ ] Custom shaders
 
 ## License
-This project is licensed under the MIT License — see the ![LICENSE](https://github.com/aleksandrajk/TranquilityLab/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/aleksandrajk/TranquilityLab/blob/main/LICENSE) file for details.
